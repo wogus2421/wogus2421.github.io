@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "dark", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "dark", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 remote_theme : mmistakes/minimal-mistakes
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "MocoChung"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "JaeHyun Han"
+description              : "First website."
 url                      : "https://wogus2421.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "JaeHyun Han"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "I wish always 'Do my best.'"
   location         : "Somewhere"
   email            :
   links:
